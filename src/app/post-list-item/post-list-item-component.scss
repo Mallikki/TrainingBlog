@@ -1,0 +1,40 @@
+.bad{
+  background-color: rosybrown;
+  color: darkred;
+}
+
+.good{
+  background-color: lightgreen;
+  color: darkgreen;
+}
+
+mat-card-title{
+  font-size: 20px;
+  font-family: "Calibri Light";
+}
+
+mat-card-subtitle{
+  font-size: 12px;
+  font-family: "Calibri Light";
+}
+
+mat-card-content{
+  font-family: "Calibri Light";
+}
+
+.like{
+  color:green;
+}
+
+.dislike{
+  color:red;
+}
+
+button{
+  margin-right: 15px;
+}
+
+mat-card{
+  border: 2px solid darkgrey;
+  margin-bottom: 15px;
+}
